@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Viswanathan Sankar</h1>
+<h1 align="center">Hi 👋, I'm S VISWANATHAN </h1>
 <h3 align="center">A passionate Research Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwanath1999&label=Profile%20views&color=0e75b6&style=flat" alt="vishwanath1999" /> </p>
